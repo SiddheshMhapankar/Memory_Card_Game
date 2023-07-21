@@ -7,3 +7,10 @@ Implemented interactive functionality using JavaScript to enable players to turn
 Utilized CSS to style the cards with visually appealing images, creating an enjoyable gaming experience.
 Incorporated logic to check if the two flipped cards match, rewarding players for successful matches and prompting them to try again for unmatched cards.
 
+
+
+
+
+
+https://github.com/SiddheshMhapankar/Memory_Card_Game/assets/72028899/65747e1e-a552-4e22-9a04-fa2c6946c51a
+
